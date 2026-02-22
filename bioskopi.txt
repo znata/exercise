@@ -4,6 +4,7 @@ informacije o filmovima i bioskopima (glumcima, salama, kartama).
 2) Kreirati veb-stranu koja sadrži formular koji omogućava da se odabere film,
  i kada se klikne na dugme da se iz baze podataka prikaze opis izabranog filma.
 
+<<<<<<< HEAD
 3) Kreirati veb-stranu koja prikazuje spisak svih pozorista i spisak svih filmova koji se daju.
 Nakon odabira bioskopa i filma, potrebno je obeleziti i karte u sali.
 Klikom na dugme u bazi se proverava da li se odabrani film prikazuje u odabranom bioskopu, 
