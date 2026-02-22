@@ -9,5 +9,5 @@ informacije o filmovima i bioskopima (glumcima, salama, kartama).
 Nakon odabira bioskopa i filma, potrebno je obeleziti i karte u sali.
 Klikom na dugme u bazi se proverava da li se odabrani film prikazuje u odabranom bioskopu, 
 i ako se prikazuje, na osnovu podataka iz baze o ceni karte i broja odabranih mesta, 
-prikazuje se cena karte i ukupna cena karata.
+prikazuje se cena karte.
 
