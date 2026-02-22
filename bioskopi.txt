@@ -10,9 +10,3 @@ Klikom na dugme u bazi se proverava da li se odabrani film prikazuje u odabranom
 i ako se prikazuje, na osnovu podataka iz baze o ceni karte i broja odabranih mesta, 
 prikazuje se cena karte i ukupna cena karata.
 
-4) Dodatni zadatak moze biti da se na osnovu odabrane sale i bioskopa ispisu samo raspoloziva mesta
-za odredjeni datum i vreme projekcije (u bazi se cuvaju koje su karte prodate). 
-
-
-5) Dodatni zadatak moze biti da se na osnovu odabrane sale i bioskopa ispisu samo raspoloziva mesta
-za odredjeni datum i vreme projekcije (u bazi se cuvaju koje su karte prodate). 
